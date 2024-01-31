@@ -1,0 +1,1 @@
+A react app to search movies, rate and add them to watched list
